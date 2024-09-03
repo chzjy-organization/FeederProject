@@ -63,7 +63,7 @@ public class ProcessTasks {
             NameAddress mUserNormalAddress;
             @Override
             public String getServerIp() {
-                return "39.98.36.250";//39.98.36.250
+                return "pet.qinqingonline.com";//39.98.36.250
             }
 
             @Override
